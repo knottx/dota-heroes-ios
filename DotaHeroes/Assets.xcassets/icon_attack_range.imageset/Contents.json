@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "icon_attack_range.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
